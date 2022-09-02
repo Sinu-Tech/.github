@@ -1,13 +1,14 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sinu-Tech%20&fontAlignY=40&color=gradient)
 
+## Quem somos?
 
-<!--
+Estudantes de Sistemas de Informação pela Universidade Federal de Sergipe, somos amigos com ideias e projetos, e com eles a intenção de crescermos juntos na área de tecnologia.
+Cada um tendo mais afinidade com uma área diferente é o que faz a equipe diversa e multifuncional.
 
-**Here are some ideas to get you started:**
+## O que fazemos?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Um pouco de tudo, apesar de cada um com sua preferencias acreditamos que todos nós temos o potencia de full stack, pois sabemos que é possível aprender de tudo tendo dedicação. Aqui temos projetos de Inteligencia Artificial, Aplicação Web, Bots, Aplicação Mobile, Projeto Arquitetural de Software, etc.
+
+## Sobre a organização
+
+Nós criamos para centralizar e organizar nossos projetos em grupo, e com os projetos abertos, talvez ajudar pessoas que seguem as mesmas ideias. Inclusive usando o conceito de Open Source, nós aceitamos ajuda para nova evolução, seja nos relatando erros, trazendo questionamentos, com pull requests, entre outros.
