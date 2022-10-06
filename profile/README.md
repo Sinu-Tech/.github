@@ -7,7 +7,7 @@ Cada um tendo mais afinidade com uma área diferente é o que faz a equipe diver
 
 ## O que fazemos?
 
-Um pouco de tudo, apesar de cada um com sua preferencias acreditamos que todos nós temos o potencia de full stack, pois sabemos que é possível aprender de tudo tendo dedicação. Aqui temos projetos de Inteligencia Artificial, Aplicação Web, Bots, Aplicação Mobile, Projeto Arquitetural de Software, etc.
+Um pouco de tudo, apesar de cada um com sua preferencias acreditamos que todos nós temos o potencial de full stack, pois sabemos que é possível aprender de tudo tendo dedicação. Aqui temos projetos de Inteligencia Artificial, Aplicação Web, Bots, Aplicação Mobile, Projeto Arquitetural de Software, etc.
 
 ## Sobre a organização
 
