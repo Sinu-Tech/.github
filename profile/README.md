@@ -12,3 +12,7 @@ Um pouco de tudo, apesar de cada um com sua preferencias acreditamos que todos n
 ## Sobre a organização
 
 Nós criamos para centralizar e organizar nossos projetos em grupo, e com os projetos abertos, talvez ajudar pessoas que seguem as mesmas ideias. Inclusive usando o conceito de Open Source, nós aceitamos ajuda para nova evolução, seja nos relatando erros, trazendo questionamentos, com pull requests, entre outros.
+
+
+
+**“Trabalho em equipe é o combustível que permite que pessoas comuns alcancem resultados incomuns.” - Andrew Carnegie**
